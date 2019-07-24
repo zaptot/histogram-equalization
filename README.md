@@ -7,4 +7,3 @@ Implementation of HE, BBHE, DSIHE and MMBEBHE algorithms from this papers:
 - "Image enhancement based on equal area dualistic sub-image histogram equalization method" Y.Wang, Q. Chen, and B. Zhang
 
 - "Minimum mean brightness error bi-histogram equalization in contrast enhancement" S.-D. Chen and A. Ramli
-
